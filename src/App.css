@@ -1,0 +1,7 @@
+.app-bg{
+  background-image: url(./bg.jpeg);
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
